@@ -1,0 +1,16 @@
+.box-style{
+    padding: 21px 71px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0.4px;
+    text-align: center;
+    color: #fff;
+    border: 3px solid transparent;
+    border-radius: 10px;
+    transition: all .3s ease;
+}
+
+.box-style:hover{
+    background: transparent;
+}
