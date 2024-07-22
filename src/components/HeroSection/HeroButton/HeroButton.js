@@ -1,4 +1,4 @@
-import './hero.css'
+import './heroButton.css'
 
 const HeroButton = ({title, type}) => {
    return (
