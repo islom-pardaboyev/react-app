@@ -1,6 +1,6 @@
-import HeroButton from "./HeroButton/HeroButton";
+import HeroButton from "../HeroButton/HeroButton";
 import bgImg from "../../assets/images/bg-image.png";
-import HeroText from "./HeroText/HeroText";
+import HeroText from "../HeroText/HeroText";
 import ScrollDownImg from '../../assets/images/scroll-down-img.svg'
 
 const HeroSection = () => {

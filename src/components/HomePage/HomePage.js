@@ -1,5 +1,5 @@
-import HomePageImg from "./HomePageImgs";
-import HomePageText from "./HomePageText";
+import HomePageImg from "../HomePageImgs/HomePageImgs";
+import HomePageText from "../HomePageText/HomePageText";
 import img1 from "../../assets/images/home-bg-1.png";
 import img2 from "../../assets/images/home-bg-2.png";
 import img3 from "../../assets/images/home-bg-3.png";
